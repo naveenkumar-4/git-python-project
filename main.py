@@ -4,6 +4,6 @@ def check_palindrome(s):
 	return False
 s = input()
 if check_palindrome(s) == True:
-	print(" It is the  Palindrome")
+	print(" Given is the  Palindrome")
 else:
 	print("Not Palindrome")
